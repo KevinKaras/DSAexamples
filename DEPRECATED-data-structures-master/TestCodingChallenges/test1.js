@@ -1,0 +1,1 @@
+// run through binary search tree videos before beginning. 
