@@ -1,4 +1,5 @@
-/**
+  
+  /**
  * This file contains an implementation of a Binary Search Tree (BST) Any comparable data is allowed
  * within this tree (numbers, strings, comparable Objects, etc...). Supported operations include
  * adding, removing, height, and containment checks. Furthermore, multiple tree traversal Iterators
