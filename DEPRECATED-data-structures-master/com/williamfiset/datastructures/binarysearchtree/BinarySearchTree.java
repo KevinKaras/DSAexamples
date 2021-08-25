@@ -14,7 +14,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
 
   // Tracks the number of nodes in this BST
   private int nodeCount = 0;
-
+  
   // This BST is a rooted tree so we maintain a handle on the root node
   private Node root = null;
 
