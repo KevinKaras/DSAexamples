@@ -1,4 +1,6 @@
   
+  // CONVERT THIS TO JAVASCRIPT TO THE BEST OF YOUR ABILITY BY MONDAY. LEARN JAVA IF YOU HAVE TO.
+
   /**
  * This file contains an implementation of a Binary Search Tree (BST) Any comparable data is allowed
  * within this tree (numbers, strings, comparable Objects, etc...). Supported operations include

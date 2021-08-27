@@ -1,3 +1,7 @@
+
+// CONVERT THIS TO JAVASCRIPT TO THE BEST OF YOUR ABILITY BY MONDAY. LEARN JAVA IF YOU HAVE TO.
+
+
 package com.williamfiset.datastructures.binarysearchtree;
 
 import com.williamfiset.datastructures.utils.TreePrinter;
