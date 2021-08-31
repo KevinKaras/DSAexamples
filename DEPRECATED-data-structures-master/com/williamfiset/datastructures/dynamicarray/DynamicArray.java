@@ -1,3 +1,7 @@
+
+// Should be memorized like the back of your hand
+
+
 /**
  * A generic dynamic array implementation
  *

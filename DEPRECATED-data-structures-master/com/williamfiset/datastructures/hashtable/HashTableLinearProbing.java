@@ -1,3 +1,6 @@
+// Hash Tables are incredibly usefull and should be mastered
+
+
 /**
  * An implementation of a hash-table using open addressing with linear probing as a collision
  * resolution method.
