@@ -1,3 +1,7 @@
+// Just mastering this isnt enough, make sure to fully understand singly linked lists as well
+
+
+
 /**
  * A doubly linked list implementation.
  *

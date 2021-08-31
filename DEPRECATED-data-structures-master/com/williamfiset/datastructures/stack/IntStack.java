@@ -1,3 +1,5 @@
+// This stuff is easy, should already be memorized
+
 /**
  * This file contains an implementation of an integer only stack which is extremely quick and
  * lightweight. In terms of performance it can outperform java.util.ArrayDeque (Java's fastest stack
